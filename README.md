@@ -1,2 +1,2 @@
 # Study-Python
-![alt text](https://github.com/kou466/Python/blob/master/assets/1.png?raw=true)
+![alt text](C:\Users\이주형\Desktop)
